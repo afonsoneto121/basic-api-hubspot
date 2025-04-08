@@ -1,0 +1,9 @@
+logging:
+  level:
+    org:
+      springframework:
+        security: DEBUG
+        web:
+          reactive:
+            function:
+              client: DEBUG
