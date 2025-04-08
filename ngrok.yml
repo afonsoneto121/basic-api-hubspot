@@ -1,0 +1,6 @@
+version: "3"
+tunnels:
+  basic:
+    proto: http
+    addr: java_app:8080
+    domain: sharing-skink-pumped.ngrok-free.app
